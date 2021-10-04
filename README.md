@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @soniafriesen
-- 👀 I’m interested in ... alot of things.
+- 👀 I’m interested in ... Full stack development.
 - 🌱 I’m currently learning ... Programming and development techniques.
-- 💞️ I’m looking to collaborate on ... school at the moment.
-- 📫 How to reach me ... probably can't.
+- 💞️ I’m looking to collaborate on ... small to mdi size projects.
+- 📫 How to reach me ... by message or email.
 
 <!---
 soniafriesen/soniafriesen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
