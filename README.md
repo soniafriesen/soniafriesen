@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @soniafriesen
-- 👀 I’m interested in ... Full stack development.
+- 👀 I’m interested in ... Full stack development, software development.
 - 🌱 I’m currently learning ... Programming and development techniques.
 - 💞️ I’m looking to collaborate on ... small to mdi size projects.
 - 📫 How to reach me ... by message or email.
